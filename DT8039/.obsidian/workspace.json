@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "6e3f172b6dd983e4",
+    "id": "85ca806731c4c08d",
     "type": "split",
     "children": [
       {
-        "id": "fdeed7814319c46d",
+        "id": "b8ac87327441dad5",
         "type": "tabs",
         "children": [
           {
-            "id": "76b7a855d9a0ffa6",
+            "id": "d070a2e798c22ac6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AI exam re-review.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8795d3c9c5102336",
+    "id": "39efc2941ada6611",
     "type": "split",
     "children": [
       {
-        "id": "779de97544c55b26",
+        "id": "ec9bd6dfc16c0304",
         "type": "tabs",
         "children": [
           {
-            "id": "0830772c1f747cd8",
+            "id": "9cd1c873be236014",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "24f92712681305ce",
+            "id": "2461af96182d5781",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "2b4255a0bdd107c7",
+            "id": "772ab59f7cc975c8",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -65,22 +69,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "4a491673830fd3bd",
+    "id": "b38489ea79b6e016",
     "type": "split",
     "children": [
       {
-        "id": "162c9a806fc15cd0",
+        "id": "da6329f167d258ac",
         "type": "tabs",
         "children": [
           {
-            "id": "946a9ee5beb948ab",
+            "id": "25b3b15be3f6ddf1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AI exam re-review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +98,19 @@
             }
           },
           {
-            "id": "cd1e9fb1c687f5eb",
+            "id": "4a30a09ba7a7fe88",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AI exam re-review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1d7e92bbaf429653",
+            "id": "f1bed19f002c0ff2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +121,13 @@
             }
           },
           {
-            "id": "2ca6197e57a29d96",
+            "id": "f819ce587f8439e0",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AI exam re-review.md"
+              }
             }
           }
         ]
@@ -138,6 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76b7a855d9a0ffa6",
-  "lastOpenFiles": []
+  "active": "d070a2e798c22ac6",
+  "lastOpenFiles": [
+    "Pasted image 20230323171014.png",
+    "Pasted image 20230323170916.png",
+    "Pasted image 20230323135944.png",
+    "AI exam re-review.md",
+    "Book notes/Chapter 3.md",
+    "Lecture notes/Lecture 2.md",
+    "Untitled.canvas",
+    "Book notes",
+    "Lecture notes"
+  ]
 }
