@@ -11,11 +11,28 @@
             "id": "f04621192bb75c91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Book notes/Chapter 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c722ffcc3ba530cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book notes/Chapter 4 - Continuous Functions and Hilbert Spaces.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4a491673830fd3bd",
@@ -81,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Book notes/Chapter 4 - Continuous Functions and Hilbert Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Book notes/Chapter 4 - Continuous Functions and Hilbert Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Book notes/Chapter 4 - Continuous Functions and Hilbert Spaces.md"
+              }
             }
           }
         ]
@@ -138,19 +160,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f04621192bb75c91",
+  "active": "c722ffcc3ba530cd",
   "lastOpenFiles": [
-    "Lecture notes/Lecture 2.md",
-    "Lecture notes",
     "Book notes/Chapter 3.md",
-    "Book notes",
+    "Book notes/Chapter 4 - Continuous Functions and Hilbert Spaces.md",
     "Attachments/Pasted image 20230323171014.png",
     "Attachments/Pasted image 20230323170916.png",
-    "Attachments",
     "AI exam re-review.md",
-    "Digital Image Processing.pdf",
-    "Chapter5-annotated.pdf",
+    "Mullvad-Stop_chat_control_ENG.pdf",
     "Ai re-study sesh.md",
-    "Mullvad-Stop_chat_control_ENG.pdf"
+    "Lecture notes/Lecture 2.md",
+    "Lecture notes",
+    "Book notes",
+    "Attachments",
+    "Digital Image Processing.pdf",
+    "Chapter5-annotated.pdf"
   ]
 }
