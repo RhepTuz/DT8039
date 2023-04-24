@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e71f6a31e57bb7ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book notes/Chapter 5 - Finite Extension or Periodic Functions --- Fourier Coefficients.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29c370be937f8c41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book notes/Chapter 6 - Fourier transform --Infinite Extension Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4a491673830fd3bd",
@@ -99,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book notes/Chapter 4 - Continuous Functions and Hilbert Spaces.md",
+                "file": "Book notes/Chapter 6 - Fourier transform --Infinite Extension Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book notes/Chapter 4 - Continuous Functions and Hilbert Spaces.md",
+                "file": "Book notes/Chapter 6 - Fourier transform --Infinite Extension Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book notes/Chapter 4 - Continuous Functions and Hilbert Spaces.md"
+                "file": "Book notes/Chapter 6 - Fourier transform --Infinite Extension Functions.md"
               }
             }
           }
@@ -160,10 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c722ffcc3ba530cd",
+  "active": "29c370be937f8c41",
   "lastOpenFiles": [
-    "Book notes/Chapter 3.md",
+    "Book notes/Chapter 5 - Finite Extension or Periodic Functions --- Fourier Coefficients.md",
+    "Book notes/Chapter 6 - Fourier transform --Infinite Extension Functions.md",
+    "Digital Image Processing.pdf",
+    "Unconfirmed 50117.crdownload",
     "Book notes/Chapter 4 - Continuous Functions and Hilbert Spaces.md",
+    "Book notes/Chapter 3.md",
     "Attachments/Pasted image 20230323171014.png",
     "Attachments/Pasted image 20230323170916.png",
     "AI exam re-review.md",
@@ -173,7 +200,6 @@
     "Lecture notes",
     "Book notes",
     "Attachments",
-    "Digital Image Processing.pdf",
     "Chapter5-annotated.pdf"
   ]
 }
