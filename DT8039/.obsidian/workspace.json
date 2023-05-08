@@ -54,9 +54,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1abfbe74c3e43ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book notes/Chapter 2 - Color.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0e9bedc35169fec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book notes/Chapter 9 - Scales and Frequency Channels.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62cf7b5672f64326",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -101,13 +135,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "07c2d46677a87f97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4a491673830fd3bd",
@@ -123,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book notes/Chapter 6 - Fourier transform --Infinite Extension Functions.md",
+                "file": "Book notes/Chapter 9 - Scales and Frequency Channels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book notes/Chapter 6 - Fourier transform --Infinite Extension Functions.md",
+                "file": "Book notes/Chapter 9 - Scales and Frequency Channels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book notes/Chapter 6 - Fourier transform --Infinite Extension Functions.md"
+                "file": "Book notes/Chapter 9 - Scales and Frequency Channels.md"
               }
             }
           }
@@ -184,10 +225,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29c370be937f8c41",
+  "active": "62cf7b5672f64326",
   "lastOpenFiles": [
-    "Book notes/Chapter 5 - Finite Extension or Periodic Functions --- Fourier Coefficients.md",
     "Book notes/Chapter 6 - Fourier transform --Infinite Extension Functions.md",
+    "Book notes/Chapter 2 - Color.md",
+    "Book notes/Chapter 9 - Scales and Frequency Channels.md",
+    "Book notes/Chapter 5 - Finite Extension or Periodic Functions --- Fourier Coefficients.md",
     "Book notes/Chapter 4 - Continuous Functions and Hilbert Spaces.md",
     "Pasted image 20230425081227.png",
     "Digital Image Processing.pdf",
